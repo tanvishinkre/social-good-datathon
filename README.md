@@ -1,5 +1,5 @@
 # social-good-datathon
-This is our project for the 2019 Social Good Datathon hosted by Data Science Society at Berkeley and IBM.
+This is our project for the 2019 Social Good Datathon hosted by Data Science Society at Berkeley and IBM, hosted over 24 hours from November 8th to November 9th.
 
 We have 2 files for data exploration and building out our algorithm:
 HomeSafe_metrics.ipynb - This notebook includes all the functions that we built out to create our final algorithm, along with a basic user interface.
